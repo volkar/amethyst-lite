@@ -1,0 +1,15 @@
+/* TEAM */
+
+	Architect: Sergey VolkaR
+	Website: https://volkar.ru
+	From: Saumlaki, Laniakea
+
+/* THANKS */
+
+	To my Muse
+
+/* SITE */
+
+	Doctype: HTML5
+	Tools: Raycast, VSCode, Brave Browser, Dash, Forklift
+	Tech: HTML5, CSS3, Amethyst Lite, Node.js

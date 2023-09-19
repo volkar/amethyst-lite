@@ -1,0 +1,13 @@
+{
+  "name": "amethyst-lite",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/tailwind.css -o ./prod/styles/tailwind.css --watch"
+  },
+  "author": "Sergey Volkar",
+  "license": "ISC"
+}
